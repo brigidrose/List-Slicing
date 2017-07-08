@@ -218,6 +218,8 @@ def delete_middle(input_list):
 
     del input_list[2:-2]
 
+    #
+
 
 ##############################################################################
 # END OF MAIN EXERCISE.  Yay!  You did it! You Rock!
